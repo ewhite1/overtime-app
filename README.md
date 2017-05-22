@@ -4,7 +4,7 @@ key requirement: a app code along that I'm doing on udemy. Its an app that track
 
 # Models
 - Post -> date:date rationale:text
-- User:devise
+x User:devise
 - admin sti
 
 #Features: 
