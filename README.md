@@ -5,7 +5,7 @@ key requirement: a app code along that I'm doing on udemy. Its an app that track
 # Models
 - Post -> date:date rationale:text
 x User:devise
-- admin sti
+X admin sti
 
 #Features: 
 Approval workflow
